@@ -1,1 +1,7 @@
 # FPS
+
+ GitHubのテスト	
+
+ ##メンバー
+
+ *FPSmember
